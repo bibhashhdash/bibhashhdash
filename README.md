@@ -28,8 +28,5 @@ Welcome to my GitHub profile! I’m a recent graduate in **Computer Science Engi
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
 
-## 📊 GitHub Stats
-![Bibhash's GitHub stats](https://github-readme-stats.vercel.app/api?username=BibhashDash&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhashdash
